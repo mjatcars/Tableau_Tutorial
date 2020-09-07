@@ -1,1 +1,3 @@
 what !!!
+def foo():
+    print()
